@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cucumber Suite1">
+
+    <!-- All tests will show in Report  -->
+    <test verbose="1" name="Cucumeber Test">
+        <!--    <parameter name="DeviceDetails" value="emulator-5554_11"/>-->
+        <!--    <parameter name="DeviceDetails" value="emulator-5556_12"/>-->
+        <!--    <parameter name="DeviceDetails" value="Test's iPhone_15.2"/>-->
+
+        <classes>
+            <class name="runner.MyTestRunner"/>
+        </classes>
+    </test>
+
+</suite> <!-- Default suite -->
