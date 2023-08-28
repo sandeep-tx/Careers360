@@ -106,3 +106,12 @@ test-output/
 !/.mvn/wrapper/maven-wrapper.jar
 
 # End of https://www.gitignore.io/api/java,maven,eclipse
+ExecutionReports/Logs/appLog.txt
+ExecutionReports/Logs/appLogs.html
+target/cucumber-html-report/formatter.js
+target/cucumber-html-report/index.html
+target/cucumber-html-report/jquery-1.8.2.min.js
+target/cucumber-html-report/report.js
+target/cucumber-html-report/style.css
+target/cucumber.json
+target/test-classes/runner/MyTestRunner.class
